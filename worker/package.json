@@ -11,7 +11,7 @@
   "devDependencies": {
     "typescript": "^4.5.4",
     "astar-typescript": "https://github.com/fishpondstudio/astar-typescript.git",
-    "esbuild": "^0.14.16",
+    "esbuild": "^0.25.0",
     "pathfinding": "^0.4.18"
   }
 }
